@@ -1,5 +1,5 @@
 Here is a screenshot of my self portrait
-![](selfPortrait.jpeg)
+![](selfPortrait.jpg)
 
 The environment that I choose to illustrate in the background is the park. 
 I chose the park because I spend a lot of time there and it is my hangout spot.
