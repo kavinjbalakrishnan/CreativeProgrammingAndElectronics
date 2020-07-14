@@ -1,3 +1,6 @@
+Here is a screenshot of my self portrait
+![] (selfPortrait.jpeg)
+
 The environment that I choose to illustrate in the background is the park. 
 I chose the park because I spend a lot of time there and it is my hangout spot.
 During this lockdown, I have been going to the park everyday to relax or to spend time with my friends.
