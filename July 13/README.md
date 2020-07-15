@@ -1,10 +1,10 @@
 Day
 
-![](day.jpeg)
+![](day.jpg)
 
 Night
 
-![](night.jpeg)
+![](night.jpg)
 
 My inspiration for this project was a city skyline. I wanted to create something that resembled a timelapse of a city's skyline. I also remember watching [this video](https://www.youtube.com/watch?v=GjXbxG8YRKw) on youtube about a man who was shooting a 30 year timelapse of New York city. I thought that was realy interesting and I found it fascinating how much a city can change in a span of just 24 hours. 
 
