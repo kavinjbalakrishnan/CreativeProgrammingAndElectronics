@@ -2,11 +2,11 @@
 
 **Arduino and Breadboard**
 
-![](july22.jpeg)
+![](july22.jpg)
 
 **Schematic**
 
-![](july22schematic.jpeg)
+![](july22schematic.jpg)
 
 **Description**
 
