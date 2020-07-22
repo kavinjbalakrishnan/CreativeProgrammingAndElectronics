@@ -1,6 +1,12 @@
 # Digital and Analog Input/Outputs
 
+**Arduino and Breadboard**
+
 ![](july22.jpeg)
+
+**Schematic**
+
+![](july22schematic.jpeg)
 
 **Description**
 
