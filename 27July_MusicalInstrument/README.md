@@ -2,7 +2,7 @@
 
 **Description**
 
-To use the musical instrument, press the 4 buttons to play different notes and use the potentiometer to control the speed of the servo motor for the beat.
+To use the musical instrument, press the 4 buttons to play different notes and use the potentiometer to control the speed of the servo motor for the beat. When playing a tune with the buttons the melody is minor.
 
 **Solutions**
 
