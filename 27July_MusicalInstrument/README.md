@@ -22,7 +22,7 @@ I had originally tried to attach an item to the end of the servo, but I realized
 
 **Schematic**
 
-![](schemiatic.jpg)
+![](schematic.jpg)
 
 **Instrument**
 
