@@ -30,4 +30,6 @@ I had originally tried to attach an item to the end of the servo, but I realized
 
 ![](closeup.jpg)
 
+**Video**
+![](playinginstrument.mov)
 
