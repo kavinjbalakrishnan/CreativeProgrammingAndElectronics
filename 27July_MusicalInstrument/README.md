@@ -8,11 +8,11 @@ To use the musical instrument, press the 4 buttons to play different notes and u
 
 I utilized various techniques in order to make the musical instrument less clutterred and easier to play for the user. One of the main things I focused on was wire management. I cut a red wire into 4 smaller wires and stripped their ends so that I would not have to used 4 large red wires for the buttons. I also braided the analog input wires together so They wouldn't overlap each other and cause problems for the user. This was a technique I used for wire management for multiple wires connecting to adjacent ports in my high school robotics team.
 
-![](wire.jpeg)
+![](wire.jpg)
 
 Image of the cut and stripped wire
 
-![](braidedwires.jpeg)
+![](braidedwires.jpg)
 
 Image of the braided analog input wires
 
@@ -22,12 +22,12 @@ I had originally tried to attach an item to the end of the servo, but I realized
 
 **Schematic**
 
-![](schemiatic.jpeg)
+![](schemiatic.jpg)
 
 **Instrument**
 
-![](instrumnet.jpeg)
+![](instrumnet.jpg)
 
-![](closeup.jpeg)
+![](closeup.jpg)
 
 
