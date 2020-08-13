@@ -24,3 +24,5 @@ For my final project I decided to build upon my pong game. My initial pong game 
 ![](img4.jpg)
 
 **Video**
+
+[link to video](https://www.youtube.com/watch?v=7sTHDqklltk)
