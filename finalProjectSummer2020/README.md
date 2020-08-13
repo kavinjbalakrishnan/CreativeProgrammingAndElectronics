@@ -11,6 +11,16 @@ For my final project I decided to build upon my pong game. My initial pong game 
 
 **Schematic**
 
+![](schematic.jpg)
+
 **Photographs**
+
+![](img1.jpg)
+
+![](img2.jpg)
+
+![](img3.jpg)
+
+![](img4.jpg)
 
 **Video**
